@@ -1,7 +1,6 @@
 package br.com.alura;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 public class TestaCurso2 {
